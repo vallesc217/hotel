@@ -115,7 +115,7 @@ include('db.php');
 								<div class="agileits-banner-info">
 								<h4>AMANECER</h4>
 									<h3>Quédate con amigos y familias</h3>
-										<p>AQUI PRUEBA GIT1:Ven y disfruta un momento precioso con nosotros</p>
+										<p>AQUI PRUEBA GIT2:Ven y disfruta un momento precioso con nosotros</p>
 									<div class="agileits_w3layouts_more menu__item">
 				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">leer más</a>
 			</div>
